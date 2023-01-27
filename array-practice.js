@@ -1,4 +1,4 @@
-var friendsAge =[11, 23, 45, 67];
+var friendsAge = [11, 23, 45, 67];
 //positions index>0    1   2   3
 
 var naikas = ['mahi', 'opu', 'sabnoor', 'sabana'];
